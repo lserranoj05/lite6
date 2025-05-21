@@ -20,7 +20,7 @@ mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
 
 # Clona este repositorio
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/lserranoj05/lite6
 
 # Vuelve al directorio raíz del workspace
 cd ~/ros2_ws
