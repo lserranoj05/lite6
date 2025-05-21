@@ -33,6 +33,8 @@ source install/setup.bash
 
 ```
 
+**IMPORTANTE:** Se debe acceder al fichero ```lite6.urdf```, dentro de la carpeta ```urdf```, y actualizar las rutas de las mallas de cada articulación a las locales de tu máquina. Se debe actualizar **cada etiqueta <mesh .../>**. 
+
 
 ---
 
