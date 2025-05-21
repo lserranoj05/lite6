@@ -1,6 +1,6 @@
 # Simulación de laboratorio de microgravedad con el robot UFactory Lite 6
 
-Este repositorio contiene el paquete de ROS 2 desarrollado para el Tranajo Fin de Grado de Lucas Serrano Jiménez. Se ha diseñado para ser utilizado en sistemas con Ubuntu 24.04, ROS2 Jazzy y Gazebo Harmonic.
+Este repositorio contiene el paquete de ROS 2 desarrollado para el Trabajo Fin de Grado de Lucas Serrano Jiménez. Se ha diseñado para ser utilizado en sistemas con Ubuntu 24.04, ROS2 Jazzy y Gazebo Harmonic.
 
 Este paquete presenta una simulación de Gazebo de una mesa de trabajo como las de los simuladores de microgravedad planares. Se tiene la opción de cargar el robot UFactory Lite 6 sobre dicha mesa, para realizar control articular sobre él y llevar a cabo diferentes experimentos.
 
